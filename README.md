@@ -32,4 +32,4 @@
 <br>
 <h3> 🔥 My Stats :</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Epic-legend128&theme=github-dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-legend128&layout=compact&theme=vision-friendly-dark">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-legend128&layout=compact&theme=vision-friendly-dark">-->
