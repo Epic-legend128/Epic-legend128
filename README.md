@@ -10,7 +10,7 @@
 <ul>
   <li> 💻 Interested in Web Development and studying the efficiency of algorithms</li>
   <li> 🔢 Advocate of mathematics</li>
-  <li> ⚡ Im my free time, I solve problems from <a target="_blank" href="https://projecteuler.net">ProjectEuler</a> and create my own personal projects</li>
+  <li> ⚡ Im my free time, I solve problems from <a target="_blank" href="https://projecteuler.net">ProjectEuler</a> and <a target="_blank" href="https://www.codingame.com">CodingGame</a> and create my own personal projects</li>
 </ul>
 <br>
 <h3>🧰 Languages and Tools:</h3>
